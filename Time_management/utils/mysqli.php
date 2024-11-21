@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 // Establish connection with MySQLi
 $servername = "localhost";
 $username = "root";
-$password = "Jeeshan@87867";
+$password = "";
 $database = "tma";
 
 $mysqli = new mysqli($servername, $username, $password, $database);
